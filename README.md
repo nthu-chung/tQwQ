@@ -1,3 +1,19 @@
+# Old Repository Migration Notice
+
+> [!IMPORTANT]
+> **This repository is no longer the canonical tQwQ repository.**
+>
+> Active development has moved to **[tQwQ-lab/tQwQ](https://github.com/tQwQ-lab/tQwQ)**.
+>
+> This repository is preserved for historical and migration provenance.  
+> The original commit history and authorship remain available here for reference.
+
+---
+
+# tQwQ — a Taiwan-equity backtest engine that tries to stop you lying to yourself
+
+<!-- Keep the existing README below this point. -->
+
 # tQwQ — a Taiwan-equity backtest engine that tries to stop you lying to yourself
 
 Most of the effort in this repository is not spent finding signals. It is spent
